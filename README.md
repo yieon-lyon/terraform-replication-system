@@ -15,3 +15,11 @@ For example, it can be utilized to duplicate a production environment for infras
 - terraformer
 - terraform
 
+### ./practice1
+- failed
+
+### ./practice2
+- pending...
+
+### ./eks/karpenter-on-mng
+[go to](./eks/karpenter-on-mng/README.md)
